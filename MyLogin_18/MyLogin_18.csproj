@@ -73,6 +73,12 @@
     <Compile Include="MasterProduct.Designer.cs">
       <DependentUpon>MasterProduct.cs</DependentUpon>
     </Compile>
+    <Compile Include="palnambahinigw.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="palnambahinigw.Designer.cs">
+      <DependentUpon>palnambahinigw.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
